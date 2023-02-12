@@ -20,9 +20,11 @@ The languages that I program (Or know the basics to print Hello World) are:
   
 Also, Thanks to the Mechatronics Engineering, I have some knoledge in Ladder development for PLC's.
 
-Right now I'm more focused on studying web development and Flutter for mobile development. And applying my knoledges working on a website (one of my "little projects" hehe). but you can find me on social media, it will be down below and feel free to send a message!
+Right now I'm more focused on studying web development and Flutter for mobile development. And applying my knoledges working on a website (one of my "little projects" hehe). But you can find me on social media, it will be down below and feel free to send a message!
 
 ##
+
+### Here is where you can contact me (or offer a coffee)
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
