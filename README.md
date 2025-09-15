@@ -1,6 +1,6 @@
 ### Hi there!! Welcome to my GitHub profile
 
-My name is Mauricio Junior, I'm a 27 years old tech, coding and PC hardware enthusiast, and also a Mechatronics Engineering Student.
+My name is Mauricio Junior, I'm a 29 years old tech, coding and PC hardware enthusiast, and also a Mechatronics Engineer.
 
 Here is where I put some of my little projects and inspirations. Feel free to explore the public repositories and if you have any suggestions, first buy me a coffee and then we can talk about it.
 
